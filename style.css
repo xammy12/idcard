@@ -5,7 +5,7 @@
 }
 
 body {
-	background-color: #28223F;
+	background-color: #10284E;
 	font-family: Montserrat, sans-serif;
 	display: flex; 
 	align-items: center;
@@ -30,7 +30,7 @@ p {
 }
 
 .card-container {
-	background-color: #231E39;
+	background-color: #004955;
 	border-radius: 5px;
 	box-shadow: 0px 10px 20px -10px rgba(0,0,0,0.75);
 	color: #B3B8CD;
@@ -55,7 +55,7 @@ p {
 }
 
 .card-container .round {
-	border: 1px solid #03BFCB;
+	border: 1px solid #6B7D7F;
 	border-radius: 50%;
 	padding: 7px;
 }
@@ -71,10 +71,10 @@ a {
 	line-height: 21px;
 }
 .primary, .sosmed, button.primary, button.sosmed {
-	background-color: #03BFCB;
-	border: 1px solid #03BFCB;
+	background-color: #105E60;
+	border: 1px solid #6B7D7F;
 	border-radius: 3px;
-	color: #231E39;
+	color: #B3B8CD;
 	font-family: Montserrat, sans-serif;
 	font-weight: 500;
 	padding: 10px 25px;
@@ -88,7 +88,7 @@ a {
 }
 
 .skills {
-	background-color: #1F1A36;
+	background-color: #14365C;
 	text-align: left;
 	padding: 15px;
 	margin-top: 30px;
