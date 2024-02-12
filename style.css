@@ -6,7 +6,7 @@
 
 body {
 	background-color: #10284E;
-	font-family: Montserrat, sans-serif;
+	font-family: Inter, sans-serif;
 	display: flex; 
 	align-items: center;
 	justify-content: center;
@@ -76,7 +76,7 @@ a {
 	border: 1px solid #6B7D7F;
 	border-radius: 3px;
 	color: #B3B8CD;
-	font-family: Montserrat, sans-serif;
+	font-family: Inter, sans-serif;
 	font-weight: 500;
 	padding: 10px 25px;
 	margin: 5px 5px;
@@ -85,7 +85,7 @@ a {
 
 .primary:hover, .sosmed:hover, button.primary.ghost, button.primary:hover, button.sosmed.ghost {
 	background-color: transparent;
-	color: #02899C;
+	color: #6B7D7F;
 }
 
 .skills {
